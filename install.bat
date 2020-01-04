@@ -1,4 +1,4 @@
-cd pakages
+cd packages
 pip install numpy-1.17.4-cp37-cp37m-win_amd64.whl
 pip install scipy-1.3.3-cp37-cp37m-win_amd64.whl
 pip install six-1.13.0-py2.py3-none-any.whl
