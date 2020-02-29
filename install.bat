@@ -110,3 +110,6 @@ pip install mpl_finance-0.10.0.tar.gz
 pip install jdcal-1.4.1-py2.py3-none-any.whl
 pip install et_xmlfile-1.0.1.tar.gz
 pip install openpyxl-3.0.2.tar.gz
+
+pip install PyYAML-5.3-cp37-cp37m-win_amd64.whl
+pip install tablib-1.0.0-py3-none-any.whl
