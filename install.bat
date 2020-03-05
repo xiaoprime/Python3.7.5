@@ -113,3 +113,6 @@ pip install openpyxl-3.0.2.tar.gz
 
 pip install PyYAML-5.3-cp37-cp37m-win_amd64.whl
 pip install tablib-1.0.0-py3-none-any.whl
+
+pip install PyQt5_sip-12.7.1-cp37-cp37m-win_amd64.whl
+pip install PyQt5-5.14.1-5.14.1-cp35.cp36.cp37.cp38-none-win_amd64.whl
